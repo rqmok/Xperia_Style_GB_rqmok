@@ -1,0 +1,511 @@
+/system/app
+2012-02-28 18:32 AccountAndSyncSettings.apk
+2012-02-28 18:32 AllBackup.apk
+2012-02-28 18:32 ApplicationsProvider.apk
+2012-02-28 18:32 Bluetooth.apk
+2012-02-28 18:32 Browser.apk
+2012-02-28 18:32 Camera.apk
+2012-02-28 18:32 CertInstaller.apk
+2012-02-28 18:32 Contacts.apk
+2012-02-28 18:32 ContactsProvider.apk
+2012-02-28 18:32 DefaultContainerService.apk
+2012-02-28 18:32 DownloadProvider.apk
+2012-02-28 18:32 DownloadProviderUi.apk
+2012-02-28 18:32 Gallery3D.apk
+2012-02-28 18:31 GenieWidget.apk
+2012-02-28 18:31 Gmail.apk
+2012-02-28 18:32 GoogleBackupTransport.apk
+2012-02-28 18:31 GoogleCalendarSyncAdapter.apk
+2012-02-28 18:31 GoogleContactsSyncAdapter.apk
+2012-02-28 18:31 GoogleFeedback.apk
+2012-02-28 18:31 GooglePartnerSetup.apk
+2012-02-28 18:31 GoogleQuickSearchBox.apk
+2012-02-28 18:31 GoogleServicesFramework.apk
+2012-02-28 18:32 HTMLViewer.apk
+2012-02-28 18:32 HwOUC.apk
+2012-02-28 18:32 LatinIME.apk
+2012-02-28 18:32 LiveWallpapers.apk
+2012-02-28 18:32 LiveWallpapersPicker.apk
+2012-02-28 18:31 Maps.apk
+2012-02-28 18:31 MarketUpdater.apk
+2012-02-28 18:32 MediaCenter.apk
+2012-02-28 18:32 MediaProvider.apk
+2012-02-28 18:31 MediaUploader.apk
+2012-02-28 18:32 MMITest_II.apk
+2012-02-28 18:32 Mms.apk
+2012-02-28 18:33 MyRichpad.apk
+2012-02-28 18:31 NetworkLocation.apk
+2012-02-28 18:32 oem_install_flash_player.apk
+2012-02-28 18:32 OmaDownload.apk
+2012-02-28 18:32 PackageInstaller.apk
+2012-02-28 18:32 Phone.apk
+2012-02-28 18:31 Phonesky.apk
+2012-02-28 18:31 PicoTts.apk
+2012-02-28 18:33 PotterUnlock.apk
+2012-02-28 18:32 ProjectMenuAct.apk
+2012-02-28 18:32 Protips.apk
+2012-02-28 18:33 RichPad.apk
+2012-02-28 18:33 Service-MultiSNS.apk
+2012-02-28 18:32 Settings.apk
+2012-02-28 18:32 SettingsProvider.apk
+2012-02-28 18:31 SetupWizard.apk
+2012-02-28 18:32 SmartcardService.apk
+2012-02-28 18:33 SocialExt.apk
+2012-02-28 18:32 Stk.apk
+2012-02-28 18:31 Street.apk
+2012-02-28 18:32 SystemUI.apk
+2012-02-28 18:31 Talk.apk
+2012-02-28 18:32 TelephonyProvider.apk
+2012-02-28 18:32 TtsService.apk
+2012-02-28 18:33 UpdaterSolutionEx.apk
+2012-02-28 18:32 UserDictionaryProvider.apk
+2012-02-28 18:32 VisualizationWallpapers.apk
+2012-02-28 18:32 VoiceDialer.apk
+2012-02-28 18:31 VoiceSearch.apk
+2012-02-28 18:32 VpnServices.apk
+2012-02-28 18:31 YouTube.apk
+/system/bin
+2012-02-28 18:31 akmd8962
+2012-02-28 18:31 akmd8975
+2012-02-28 18:31 am
+2012-02-28 18:31 applypatch
+2012-02-28 18:31 app_process
+2012-02-28 18:31 battery_charging
+2012-02-28 18:31 bluetoothd
+2012-02-28 18:31 bmgr
+2012-02-28 18:31 bootanimation
+2012-02-28 18:31 bootanimationex
+2012-02-28 18:31 bugreport
+2012-02-28 18:31 callife
+2012-02-28 18:31 cat -> toolbox
+2012-02-28 18:31 charge
+2012-02-28 18:31 chmod -> toolbox
+2012-02-28 18:31 chown -> toolbox
+2012-02-28 18:31 CKPD-daemon
+2012-02-28 18:31 cmp -> toolbox
+2012-02-28 18:31 cnd
+2012-02-28 18:31 compassd
+2012-02-28 18:31 dalvikvm
+2012-02-28 18:31 date -> toolbox
+2012-02-28 18:31 dbus-daemon
+2012-02-28 18:31 dd -> toolbox
+2012-02-28 18:31 debuggerd
+2012-02-28 18:31 dexopt
+2012-02-28 18:31 df -> toolbox
+2012-02-28 18:31 dhcpcd
+2012-02-28 18:31 diag_klog
+2012-02-28 18:31 diag_mdlog
+2012-02-28 18:31 dmesg -> toolbox
+2012-02-28 18:31 dnsmasq
+2012-02-28 18:31 ds_fmc_appd
+2012-02-28 18:31 dumpstate
+2012-02-28 18:31 dumpsys
+2012-02-28 18:31 dvz
+2012-02-28 18:31 e2fsck
+2012-02-28 18:31 filebackup
+2012-02-28 18:31 fsck_msdos
+2012-02-28 18:31 getevent -> toolbox
+2012-02-28 18:31 getprop -> toolbox
+2012-02-28 18:31 gzip
+2012-02-28 18:31 hciattach
+2012-02-28 18:31 hci_qcomm_init
+2012-02-28 18:31 hd -> toolbox
+2012-02-28 18:31 hdmid
+2012-02-28 18:31 hlr_auc_gw
+2012-02-28 18:31 hostapd
+2012-02-28 18:31 hostapd_cli
+2012-02-28 18:31 hw_diag_app
+2012-02-28 18:31 hwvefs
+2012-02-28 18:31 id -> toolbox
+2012-02-28 18:31 ifconfig -> toolbox
+2012-02-28 18:31 iftop -> toolbox
+2012-02-28 18:31 ime
+2012-02-28 18:31 input
+2012-02-28 18:31 insmod -> toolbox
+2012-02-28 18:31 installd
+2012-02-28 18:31 ioctl -> toolbox
+2012-02-28 18:31 ionice -> toolbox
+2012-02-28 18:31 ip
+2012-02-28 18:31 iperf
+2012-02-28 18:31 iptables
+2012-02-28 18:31 keystore
+2012-02-28 18:31 kill -> toolbox
+2012-02-28 18:31 kmsgcat
+2012-02-28 18:31 linker
+2012-02-28 18:31 ln -> toolbox
+2012-02-28 18:31 load_oemlogo
+2012-02-28 18:31 loc_api_app
+2012-02-28 18:31 log -> toolbox
+2012-02-28 18:31 logcat
+2012-02-28 18:31 logwrapper
+2012-02-28 18:31 ls -> toolbox
+2012-02-28 18:31 lsmod -> toolbox
+2012-02-28 18:31 lsof -> toolbox
+2012-02-28 18:31 mediaserver
+2012-02-28 18:31 mkdir -> toolbox
+2012-02-28 18:31 mm-abl-test
+2012-02-28 18:31 mm-adec-omxaac-test
+2012-02-28 18:31 mm-adec-omxadpcm-test
+2012-02-28 18:31 mm-adec-omxamr-test
+2012-02-28 18:31 mm-adec-omxamrwb-test
+2012-02-28 18:31 mm-adec-omxevrc-test
+2012-02-28 18:31 mm-adec-omxmp3-test
+2012-02-28 18:31 mm-adec-omxQcelp13-test
+2012-02-28 18:31 mm-adec-omxQcelpHw-test
+2012-02-28 18:31 mm-adec-omxvam-test
+2012-02-28 18:31 mm-adec-omxwma-test
+2012-02-28 18:31 mm-aenc-omxaac-test
+2012-02-28 18:31 mm-aenc-omxamr-test
+2012-02-28 18:31 mm-aenc-omxevrc-test
+2012-02-28 18:31 mm-aenc-omxqcelp13-test
+2012-02-28 18:31 mm-audio-alsa-test
+2012-02-28 18:31 mm-audio-ctrl-test
+2012-02-28 18:31 mm-audio-mvs-test
+2012-02-28 18:31 mm-audio-native-test
+2012-02-28 18:31 mm-audio-voem_if-test
+2012-02-28 18:31 mm-jpeg-dec-test
+2012-02-28 18:31 mm-jpeg-enc-test
+2012-02-28 18:31 mm-omx-devmgr
+2012-02-28 18:31 mm-qcamera-test
+2012-02-28 18:31 mm-qcamera-testsuite-client
+2012-02-28 18:31 mm-vdec-omx-test
+2012-02-28 18:31 mm-venc-omx-test720p
+2012-02-28 18:31 mm-video-driver-test
+2012-02-28 18:31 mm-video-encdrv-test
+2012-02-28 18:31 modempre
+2012-02-28 18:31 monkey
+2012-02-28 18:31 mount -> toolbox
+2012-02-28 18:31 mtpd
+2012-02-28 18:31 mv -> toolbox
+2012-02-28 18:31 nandread -> toolbox
+2012-02-28 18:31 ndc
+2012-02-28 18:31 netcfg
+2012-02-28 18:31 netd
+2012-02-28 18:31 netmgrd
+2012-02-28 18:31 netstat -> toolbox
+2012-02-28 18:31 newfs_msdos -> toolbox
+2012-02-28 18:31 nl_listener
+2012-02-28 18:31 notify -> toolbox
+2012-02-28 18:31 nt_password_hash
+2012-02-28 18:31 oeminfo_test
+2012-02-28 18:31 oem_rpc_svc
+2012-02-28 18:31 omx_tests
+2012-02-28 18:31 pand
+2012-02-28 18:31 ping
+2012-02-28 18:31 PktRspTest
+2012-02-28 18:31 pm
+2012-02-28 18:31 port-bridge
+2012-02-28 18:31 pppd
+2012-02-28 18:31 printenv -> toolbox
+2012-02-28 18:31 ps -> toolbox
+2012-02-28 18:31 PTTKeyDaemon
+2012-02-28 18:31 ptt_socket_app
+2012-02-28 18:31 qmuxd
+2012-02-28 18:31 qrngd
+2012-02-28 18:31 qrngtest
+2012-02-28 18:31 racoon
+2012-02-28 18:31 reboot -> toolbox
+2012-02-28 18:31 renice -> toolbox
+2012-02-28 18:31 rild
+2012-02-28 18:31 rm -> toolbox
+2012-02-28 18:31 rmdir -> toolbox
+2012-02-28 18:31 rmmod -> toolbox
+2012-02-28 18:31 rmt_oeminfo
+2012-02-28 18:31 rmt_storage
+2012-02-28 18:31 route -> toolbox
+2012-02-28 18:31 run-as
+2012-02-28 18:31 schedtest
+2012-02-28 18:31 schedtop -> toolbox
+2012-02-28 18:31 sdcard
+2012-02-28 18:31 sdptool
+2012-02-28 18:31 sendevent -> toolbox
+2012-02-28 18:31 service
+2012-02-28 18:31 servicemanager
+2012-02-28 18:31 setconsole -> toolbox
+2012-02-28 18:31 setprop -> toolbox
+2012-02-28 18:31 sh
+2012-02-28 18:31 shutdownanima
+2012-02-28 18:31 sleep -> toolbox
+2012-02-28 18:31 sleeplogcat
+2012-02-28 18:31 smd -> toolbox
+2012-02-28 18:31 start -> toolbox
+2012-02-28 18:31 stop -> toolbox
+2012-02-28 18:31 surfaceflinger
+2012-02-28 18:31 svc
+2012-02-28 18:31 sw-adec-omxaac-test
+2012-02-28 18:31 sw-adec-omxamr-test
+2012-02-28 18:31 sw-adec-omxamrwb-test
+2012-02-28 18:31 sw-adec-omxmp3-test
+2012-02-28 18:31 sync -> toolbox
+2012-02-28 18:31 system_server
+2012-02-28 18:31 tc
+2012-02-28 18:31 test_diag
+2012-02-28 18:31 test_gemini
+2012-02-28 18:31 thermald
+2012-02-28 18:31 toolbox
+2012-02-28 18:31 top -> toolbox
+2012-02-28 18:31 umount -> toolbox
+2012-02-28 18:31 uptime -> toolbox
+2012-02-28 18:31 usbhub
+2012-02-28 18:31 usbhub_init
+2012-02-28 18:31 vdc
+2012-02-28 18:31 vmstat -> toolbox
+2012-02-28 18:31 vold
+2012-02-28 18:31 watchprops -> toolbox
+2012-02-28 18:31 wipe -> toolbox
+2012-02-28 18:31 wpa_cli
+2012-02-28 18:31 wpa_supplicant
+2012-02-28 18:31 write_NV_114
+/system/lib
+2012-02-28 18:31 bluez-plugin
+2012-02-28 18:31 egl
+2012-02-28 18:31 helix
+2012-02-28 18:31 hw
+2012-02-28 18:31 liba2dp.so
+2012-02-28 18:31 libacc.so
+2012-02-28 18:31 libandroid_runtime.so
+2012-02-28 18:31 libandroid_servers.so
+2012-02-28 18:31 libandroid.so
+2012-02-28 18:31 libaudioalsa.so
+2012-02-28 18:31 libaudioeffect_jni.so
+2012-02-28 18:31 libaudioeq.so
+2012-02-28 18:31 libaudioflinger.so
+2012-02-28 18:31 libaudiopolicy.so
+2012-02-28 18:31 libaudio.so
+2012-02-28 18:31 libauth.so
+2012-02-28 18:31 libbinder.so
+2012-02-28 18:31 libbluedroid.so
+2012-02-28 18:31 libbluetoothd.so
+2012-02-28 18:31 libbluetooth.so
+2012-02-28 18:31 libC2D2.so
+2012-02-28 18:31 libcamera_client.so
+2012-02-28 18:31 libcameraservice.so
+2012-02-28 18:31 libcamera.so
+2012-02-28 18:31 libcm.so
+2012-02-28 18:31 libcne.so
+2012-02-28 18:31 libcneutils.so
+2012-02-28 18:31 libcommondefs.so
+2012-02-28 18:31 libcrypto.so
+2012-02-28 18:31 libc.so
+2012-02-28 18:31 libctest.so
+2012-02-28 18:31 libcutils.so
+2012-02-28 18:31 libdbus.so
+2012-02-28 18:31 libdiag.so
+2012-02-28 18:31 libdiskconfig.so
+2012-02-28 18:31 libdivxdrmdecrypt.so
+2012-02-28 18:31 libdl.so
+2012-02-28 18:31 libdrm1_jni.so
+2012-02-28 18:31 libdrm1.so
+2012-02-28 18:31 libdsi_netctrl.so
+2012-02-28 18:31 libdsm.so
+2012-02-28 18:31 libdsnet.so
+2012-02-28 18:31 libdsprofile.so
+2012-02-28 18:31 libdssock.so
+2012-02-28 18:31 libdss.so
+2012-02-28 18:31 libdsutils.so
+2012-02-28 18:31 libdvm.so
+2012-02-28 18:31 libeffects.so
+2012-02-28 18:31 libEGL.so
+2012-02-28 18:31 libemoji.so
+2012-02-28 18:31 libETC1.so
+2012-02-28 18:31 libexif.so
+2012-02-28 18:31 libexpat.so
+2012-02-28 18:31 libFFTEm.so
+2012-02-28 18:31 libfm_hal.so
+2012-02-28 18:31 libfm_wan_api.so
+2012-02-28 18:31 libfotaagent.so
+2012-02-28 18:31 libfuse.so
+2012-02-28 18:31 libgcomm_jni.so
+2012-02-28 18:31 libgemini.so
+2012-02-28 18:31 libGLESv1_CM.so
+2012-02-28 18:31 libGLESv2.so
+2012-02-28 18:31 lib_glossary.so
+2012-02-28 18:31 libgps.so
+2012-02-28 18:31 libgsdi_exp.so
+2012-02-28 18:31 libgsl.so
+2012-02-28 18:31 libgstk_exp.so
+2012-02-28 18:31 libgui.so
+2012-02-28 18:31 libhardware_legacy.so
+2012-02-28 18:31 libhardware.so
+2012-02-28 18:31 libhdr.so
+2012-02-28 18:31 libhelixplayer.so
+2012-02-28 18:31 libhwdrm1_jni.so
+2012-02-28 18:31 libhwdrm1.so
+2012-02-28 18:31 libhwnv.so
+2012-02-28 18:31 libhwrpc.so
+2012-02-28 18:31 libicui18n.so
+2012-02-28 18:31 libicuuc.so
+2012-02-28 18:31 libidl.so
+2012-02-28 18:31 libinbidi.so
+2012-02-28 18:31 libiprouteutil.so
+2012-02-28 18:31 libjnigraphics.so
+2012-02-28 18:32 libjni_latinime.so
+2012-02-28 18:31 libjni_pinyinime.so
+2012-02-28 18:31 libjpeg.so
+2012-02-28 18:31 libloc_api-rpc-qc.so
+2012-02-28 18:31 libloc_ext.so
+2012-02-28 18:31 libloc-rpc.so
+2012-02-28 18:31 liblog.so
+2012-02-28 18:31 libmedia_jni.so
+2012-02-28 18:31 libmediaplayerservice.so
+2012-02-28 18:31 libmedia.so
+2012-02-28 18:31 libmm-abl.so
+2012-02-28 18:31 libmmgsdilib.so
+2012-02-28 18:31 libmmipl.so
+2012-02-28 18:32 libmmitest.so
+2012-02-28 18:31 libmmjpeg.so
+2012-02-28 18:31 libmm-omxcore.so
+2012-02-28 18:31 libmmosal.so
+2012-02-28 18:31 libmmparser_divxdrmlib.so
+2012-02-28 18:31 libmmparser.so
+2012-02-28 18:32 libmsc.so
+2012-02-28 18:31 libm.so
+2012-02-28 18:31 libmvs.so
+2012-02-28 18:31 libnativehelper.so
+2012-02-28 18:31 libnetlink.so
+2012-02-28 18:31 libnetmgr.so
+2012-02-28 18:31 libnetutils.so
+2012-02-28 18:31 libnfc_ndef.so
+2012-02-28 18:31 libnv.so
+2012-02-28 18:31 liboemcamera.so
+2012-02-28 18:31 liboeminfo.so
+2012-02-28 18:31 liboem_rapi.so
+2012-02-28 18:31 libomx_aacdec_sharedlibrary.so
+2012-02-28 18:31 libOmxAacDec.so
+2012-02-28 18:31 libOmxAacEnc.so
+2012-02-28 18:31 libOmxAdpcmDec.so
+2012-02-28 18:31 libomx_amrdec_sharedlibrary.so
+2012-02-28 18:31 libOmxAmrDec.so
+2012-02-28 18:31 libomx_amrenc_sharedlibrary.so
+2012-02-28 18:31 libOmxAmrEnc.so
+2012-02-28 18:31 libOmxAmrRtpDec.so
+2012-02-28 18:31 libOmxAmrwbDec.so
+2012-02-28 18:31 libomx_avcdec_sharedlibrary.so
+2012-02-28 18:31 libOmxCore.so
+2012-02-28 18:31 libOmxEvrcDec.so
+2012-02-28 18:31 libOmxEvrcEnc.so
+2012-02-28 18:31 libomx_m4vdec_sharedlibrary.so
+2012-02-28 18:31 libomx_mp3dec_sharedlibrary.so
+2012-02-28 18:31 libOmxMp3Dec.so
+2012-02-28 18:31 libOmxQcelp13Dec.so
+2012-02-28 18:31 libOmxQcelp13Enc.so
+2012-02-28 18:31 libOmxQcelpHwDec.so
+2012-02-28 18:31 libomx_sharedlibrary.so
+2012-02-28 18:31 libOmxVdec.so
+2012-02-28 18:31 libOmxVenc.so
+2012-02-28 18:31 libOmxWmaDec.so
+2012-02-28 18:31 liboncrpc.so
+2012-02-28 18:31 libopencore_author.so
+2012-02-28 18:31 libopencore_common.so
+2012-02-28 18:31 libopencore_downloadreg.so
+2012-02-28 18:31 libopencore_download.so
+2012-02-28 18:31 libopencorehw.so
+2012-02-28 18:31 libopencore_mp4localreg.so
+2012-02-28 18:31 libopencore_mp4local.so
+2012-02-28 18:31 libopencore_net_support.so
+2012-02-28 18:31 libopencore_player.so
+2012-02-28 18:31 libopencore_rtspreg.so
+2012-02-28 18:31 libopencore_rtsp.so
+2012-02-28 18:31 libOpenSLES.so
+2012-02-28 18:31 libOpenVG.so
+2012-02-28 18:31 liboverlay.so
+2012-02-28 18:31 libpbmlib.so
+2012-02-28 18:31 libpdapi.so
+2012-02-28 18:31 libpdsm_atl.so
+2012-02-28 18:31 libping_mdm.so
+2012-02-28 18:31 libpixelflinger.so
+2012-02-28 18:31 libplayready.so
+2012-02-28 18:31 libpn544_fw.so
+2012-02-28 18:31 libpng.so
+2012-02-28 18:32 libprojectmenu.so
+2012-02-28 18:31 libqcomm_omx.so
+2012-02-28 18:31 libqdp.so
+2012-02-28 18:31 libqmiservices.so
+2012-02-28 18:31 libqmi.so
+2012-02-28 18:31 libqsap_sdk.so
+2012-02-28 18:31 libqueue.so
+2012-02-28 18:31 libQWiFiSoftApCfg.so
+2012-02-28 18:31 librefcne.so
+2012-02-28 18:31 libreference-cdma-sms.so
+2012-02-28 18:31 libreference-ril.so
+2012-02-28 18:31 libril-qc-1.so
+2012-02-28 18:31 libril-qc-qmi-1.so
+2012-02-28 18:31 libril-qcril-hook-oem.so
+2012-02-28 18:31 libril.so
+2012-02-28 18:31 librpc.so
+2012-02-28 18:31 librs_jni.so
+2012-02-28 18:31 libRS.so
+2012-02-28 18:31 librtp_jni.so
+2012-02-28 18:31 libsensorservice.so
+2012-02-28 18:31 libskiagl.so
+2012-02-28 18:31 libskia.so
+2012-02-28 18:31 libsonivox.so
+2012-02-28 18:31 libsoundpool.so
+2012-02-28 18:31 libsqlite_jni.so
+2012-02-28 18:31 libsqlite.so
+2012-02-28 18:31 libSR_AudioIn.so
+2012-02-28 18:31 libsrec_jni.so
+2012-02-28 18:31 libsrsprocessing.so
+2012-02-28 18:31 libssl.so
+2012-02-28 18:31 libstagefright_amrnb_common.so
+2012-02-28 18:31 libstagefright_avc_common.so
+2012-02-28 18:31 libstagefright_color_conversion.so
+2012-02-28 18:31 libstagefright_enc_common.so
+2012-02-28 18:31 libstagefright_foundation.so
+2012-02-28 18:31 libstagefrighthw.so
+2012-02-28 18:31 libstagefright_omx.so
+2012-02-28 18:31 libstagefright.so
+2012-02-28 18:31 libstdc++.so
+2012-02-28 18:31 libstlport.so
+2012-02-28 18:31 libsurfaceflinger_client.so
+2012-02-28 18:31 libsurfaceflinger.so
+2012-02-28 18:31 libsystem_server.so
+2012-02-28 18:31 libsysutils.so
+2012-02-28 18:31 libtalk_jni.so
+2012-02-28 18:31 libthread_db.so
+2012-02-28 18:31 libttspico.so
+2012-02-28 18:31 libttssynthproxy.so
+2012-02-28 18:31 libuim.so
+2012-02-28 18:31 libui.so
+2012-02-28 18:31 libutils.so
+2012-02-28 18:31 libvoem_if.so
+2012-02-28 18:31 libvoicerecorder.so
+2012-02-28 18:31 libvoicesearch.so
+2012-02-28 18:31 libvorbisidec.so
+2012-02-28 18:31 libwebcore.so
+2012-02-28 18:31 libwebkitaccel.so
+2012-02-28 18:31 libwms.so
+2012-02-28 18:31 libwmsts.so
+2012-02-28 18:31 libwpa_client.so
+2012-02-28 18:31 libWVphoneAPI.so
+2012-02-28 18:31 libxml.so
+2012-02-28 18:31 libz.so
+2012-02-28 18:31 modules
+2012-02-28 18:32 plugins
+2012-02-28 18:31 soundfx
+/system/framework
+2012-02-28 18:31 am.jar
+2012-02-28 18:31 android.policy.jar
+2012-02-28 18:31 android.test.runner.jar
+2012-02-28 18:31 bcast_isdb.jar
+2012-02-28 18:31 bmgr.jar
+2012-02-28 18:31 bouncycastle.jar
+2012-02-28 18:31 com.android.location.provider.jar
+2012-02-28 18:31 com.google.android.maps.jar
+2012-02-28 18:31 com.qualcomm.location.vzw_library.jar
+2012-02-28 18:31 core.jar
+2012-02-28 18:31 core-junit.jar
+2012-02-28 18:31 ext.jar
+2012-02-28 18:31 framework.jar
+2012-02-28 18:32 framework-res.apk
+2012-02-28 18:31 framework-res-hwext.apk
+2012-02-28 18:31 ime.jar
+2012-02-28 18:31 input.jar
+2012-02-28 18:31 javax.obex.jar
+2012-02-28 18:31 monkey.jar
+2012-02-28 18:31 pm.jar
+2012-02-28 18:31 qcnvitems.jar
+2012-02-28 18:31 qcrilhook.jar
+2012-02-28 18:31 services.jar
+2012-02-28 18:31 sqlite-jdbc.jar
+2012-02-28 18:31 svc.jar
